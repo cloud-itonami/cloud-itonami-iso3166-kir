@@ -40,7 +40,7 @@ as every other `cloud-itonami-iso3166-*` sibling:
   and honestly-narrowed scope, including facts this iteration could NOT
   verify (e.g. the VAT Act's own specific title/year, or the Companies
   Ordinance's own full primary statutory text).
-- `src/statute/facts.cljc` -- general-law catalog: the Companies
+- `src/statute/facts.cljk` -- general-law catalog: the Companies
   Ordinance (Cap 10A), the Foreign Investment Act 2018, the Employment
   and Industrial Relation Code 2015 (labour law, with section-level
   detail on minimum wage, hours and rest periods), the Occupational
@@ -66,7 +66,7 @@ Alongside the market-entry / statute catalogs, this repo carries a
 `com-junkawasaki/root`) — national dishes, protected products, beverages,
 crafts, festivals and heritage sites for Kiribati:
 
-- `src/culture/facts.cljc` — the catalog, source of truth (keyed by
+- `src/culture/facts.cljk` — the catalog, source of truth (keyed by
   uppercase ISO3, mirroring `statute.facts`).
 - `schema/culture.edn` — DataScript schema.
 - `data/culture-tx.edn` — derived DataScript tx-data (regenerated from

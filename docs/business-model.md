@@ -13,7 +13,7 @@ Kiribati.
   Amendment) plus the Public Procurement Manual 2020's own §7.1.6
   four-tier AUD threshold ladder (VLVP<1,000 / LVP 1,000-9,999 / MVP
   10,000-49,999 / HVP>=50,000) with its own explicit accumulation rule
-  for recurring engagements (see `src/marketentry/facts.cljc`);
+  for recurring engagements (see `src/marketentry/facts.cljk`);
   e-tendering runs on both the CPU's own portal (www.procurement.gov.ki)
   and a third-party platform, illion TenderLink (New Zealand)
 - Ministry of Tourism, Commerce, Industry and Cooperatives (MTCIC),
